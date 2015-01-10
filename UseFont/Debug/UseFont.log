@@ -1,0 +1,19 @@
+﻿Build started 1/7/2015 6:08:36 PM.
+     1>Project "D:\Code\WinApi\UseFont\UseFont.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt UseFont.cpp
+         UseFont.cpp
+     1>d:\code\winapi\usefont\usefont.cpp(51): warning C4101: 'rect' : unreferenced local variable
+     1>d:\code\winapi\usefont\usefont.cpp(50): warning C4101: 'hdc' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Code\WinApi\Debug\UseFont.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Code\WinApi\Debug\UseFont.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Code\WinApi\Debug\UseFont.lib" /MACHINE:X86 Debug\UseFont.res
+         Debug\Buttons.obj
+         Debug\ClassRegister.obj
+         Debug\UseFont.obj
+         Debug\hwWindow.obj
+         UseFont.vcxproj -> D:\Code\WinApi\Debug\UseFont.exe
+     1>Done Building Project "D:\Code\WinApi\UseFont\UseFont.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.80

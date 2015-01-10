@@ -1,0 +1,13 @@
+﻿Build started 1/8/2015 10:29:50 PM.
+     1>Project "F:\GitHub\Interface\Interface\Interface.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\GitHub\Interface\Debug\Interface.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\GitHub\Interface\Debug\Interface.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\GitHub\Interface\Debug\Interface.lib" /MACHINE:X86 Debug\Buttons.obj
+         Debug\ClassRegister.obj
+         Debug\hwWindow.obj
+         Debug\main.obj
+         Interface.vcxproj -> F:\GitHub\Interface\Debug\Interface.exe
+     1>Done Building Project "F:\GitHub\Interface\Interface\Interface.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53
